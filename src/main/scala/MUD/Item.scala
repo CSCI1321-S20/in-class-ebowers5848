@@ -1,3 +1,3 @@
-package MUD
+package mud
 
 case class Item(name:String, desc: String)
